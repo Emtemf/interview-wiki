@@ -6,7 +6,8 @@
 
 ## 算法 (LeetCode)
 
-<!-- 按题目编号或标签分类 -->
+- [[704-binary-search]] - 二分查找，全闭合区间写法
+- [[35-search-insert-position]] - 搜索插入位置，返回left
 
 ## MySQL
 
