@@ -9,6 +9,7 @@
 - [[704-binary-search]] - 二分查找，全闭合区间写法
 - [[35-search-insert-position]] - 搜索插入位置，返回left
 - [[34-find-first-and-last-position]] - 找左右边界，两次二分
+- [[69-sqrt]] - x的平方根，向下取整，防溢出用long
 
 ## MySQL
 

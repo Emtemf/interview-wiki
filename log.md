@@ -19,6 +19,11 @@
 - Created: concepts/34-find-first-and-last-position.md
 - Tags: binary-search, array
 - Notes: 两次二分找左右边界，注意越界检查
+
+## [2026-04-29] ingest | 69. x的平方根
+- Created: concepts/69-sqrt.md
+- Tags: binary-search, math
+- Notes: 向下取整返回right，用long防溢出
 - Domain: 后端工程师面试知识库
 - Structure: SCHEMA.md, index.md, log.md
 - Topics: LeetCode, MySQL, Redis, MQ, 系统设计, 项目经验
