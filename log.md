@@ -29,6 +29,11 @@
 - Created: concepts/367-valid-perfect-square.md
 - Tags: binary-search, math
 - Notes: 和69题类似，返回boolean
+
+## [2026-04-29] ingest | 27. 移除元素
+- Created: concepts/27-remove-element.md
+- Tags: two-pointers, array
+- Notes: 快慢指针，原地移除
 - Domain: 后端工程师面试知识库
 - Structure: SCHEMA.md, index.md, log.md
 - Topics: LeetCode, MySQL, Redis, MQ, 系统设计, 项目经验
