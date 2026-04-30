@@ -24,6 +24,11 @@
 - Created: concepts/69-sqrt.md
 - Tags: binary-search, math
 - Notes: 向下取整返回right，用long防溢出
+
+## [2026-04-29] ingest | 367. 有效的完全平方数
+- Created: concepts/367-valid-perfect-square.md
+- Tags: binary-search, math
+- Notes: 和69题类似，返回boolean
 - Domain: 后端工程师面试知识库
 - Structure: SCHEMA.md, index.md, log.md
 - Topics: LeetCode, MySQL, Redis, MQ, 系统设计, 项目经验

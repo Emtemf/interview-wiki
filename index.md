@@ -10,6 +10,7 @@
 - [[35-search-insert-position]] - 搜索插入位置，返回left
 - [[34-find-first-and-last-position]] - 找左右边界，两次二分
 - [[69-sqrt]] - x的平方根，向下取整，防溢出用long
+- [[367-valid-perfect-square]] - 有效的完全平方数，和69题类似
 
 ## MySQL
 
